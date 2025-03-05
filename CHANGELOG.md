@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-29)
+## Unreleased (2025-03-05)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#4992](https://github.com/stdlib-js/stdlib/issues/4992)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 -   [`d88905f`](https://github.com/stdlib-js/stdlib/commit/d88905fbd9006bf223db7ce4959b46f02cf7d73e) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 
@@ -25,8 +38,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Gaurav
 -   Philipp Burckhardt
 
 </section>

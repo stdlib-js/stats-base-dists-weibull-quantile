@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-19)
+
+<section class="features">
+
+### Features
+
+-   [`ff1dbe2`](https://github.com/stdlib-js/stdlib/commit/ff1dbe2dc6fcdbfd83b50f31655adbdbc1cc7681) - add C implementation for `stats/base/dists/weibull/quantile` [(#4233)](https://github.com/stdlib-js/stdlib/pull/4233)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4992](https://github.com/stdlib-js/stdlib/issues/4992)
+[#3848](https://github.com/stdlib-js/stdlib/issues/3848), [#4992](https://github.com/stdlib-js/stdlib/issues/4992)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ff1dbe2`](https://github.com/stdlib-js/stdlib/commit/ff1dbe2dc6fcdbfd83b50f31655adbdbc1cc7681) - **feat:** add C implementation for `stats/base/dists/weibull/quantile` [(#4233)](https://github.com/stdlib-js/stdlib/pull/4233) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 -   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
 -   [`d88905f`](https://github.com/stdlib-js/stdlib/commit/d88905fbd9006bf223db7ce4959b46f02cf7d73e) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
@@ -38,8 +49,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aadish Jain
 -   Gaurav
 -   Philipp Burckhardt
 

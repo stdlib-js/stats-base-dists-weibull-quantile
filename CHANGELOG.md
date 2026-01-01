@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-11)
+## Unreleased (2026-01-01)
 
 <section class="features">
 
@@ -34,9 +34,14 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`edccce1`](https://github.com/stdlib-js/stdlib/commit/edccce1444f24145380aa51e8439f95928bda403) - **docs:** replace manual `for` loop in examples [(#9479)](https://github.com/stdlib-js/stdlib/pull/9479) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`58ce62b`](https://github.com/stdlib-js/stdlib/commit/58ce62b213c03bb13d4effe9a970327d5588bf67) - **docs:** update `stats/base/dists/weibull` examples to use Greek symbols _(by Philipp Burckhardt)_
 -   [`ff1dbe2`](https://github.com/stdlib-js/stdlib/commit/ff1dbe2dc6fcdbfd83b50f31655adbdbc1cc7681) - **feat:** add C implementation for `stats/base/dists/weibull/quantile` [(#4233)](https://github.com/stdlib-js/stdlib/pull/4233) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
--   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav)_
+-   [`1ebcfd6`](https://github.com/stdlib-js/stdlib/commit/1ebcfd618beaf055a7097c89f3794d507fd14947) - **bench:** refactor random number generation in `stats/base/dists/weibull` [(#5342)](https://github.com/stdlib-js/stdlib/pull/5342) _(by Gaurav Jadhav)_
 -   [`d88905f`](https://github.com/stdlib-js/stdlib/commit/d88905fbd9006bf223db7ce4959b46f02cf7d73e) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 -   [`b87254d`](https://github.com/stdlib-js/stdlib/commit/b87254d4535a3b90bf3d0068750ed6e9ca5dbc85) - **docs:** fix parameter descriptions in Weibull distribution packages _(by Philipp Burckhardt)_
 
@@ -50,10 +55,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
--   Gaurav
+-   Gaurav Jadhav
+-   Harsh Yadav
 -   Philipp Burckhardt
 
 </section>

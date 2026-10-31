@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-10-31)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f4d9f74`](https://github.com/stdlib-js/stdlib/commit/f4d9f7451504614a2b12f5c1040f354805ac99f7) - **test:** migrate `stats/base/dists/weibull/quantile` to ULP-based assertions [(#14917)](https://github.com/stdlib-js/stdlib/pull/14917) _(by Aryan kumar)_
 
 </details>
@@ -24,9 +25,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
+-   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
